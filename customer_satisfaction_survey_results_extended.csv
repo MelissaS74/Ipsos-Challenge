@@ -1,0 +1,51 @@
+﻿CustomerID,Age,Gender,SatisfactionScore,WouldRecommend,Feedback
+1,34,Female,4,Yes,"Great selection of products,  but shipping could be faster."
+2,28,Male,5,Yes,Everything was perfect from order to delivery!
+3,45,Female,3,No,Found the website difficult to navigate.
+4,31,Male,2,No,Product quality did not meet expectations.
+5,54,Female,4,Yes,Very satisfied with the customer service.
+6,22,Male,5,Yes,Amazing prices and fast delivery!
+7,39,Female,3,No,The product range is good but my order was delayed.
+8,26,Male,4,Yes,Overall a good experience though the website could use an update.
+9,48,Female,2,No,Customer support was not helpful with my issue.
+10,35,Male,4,Yes,I'm impressed with the quality of products offered.
+11,29,Female,5,Yes,Loved the eco-friendly packaging.
+12,37,Male,4,Yes,Quick checkout process and user-friendly website.
+13,41,Female,3,No,Expected a wider range of products.
+14,23,Male,5,Yes,Exceptional service and fast response to inquiries.
+15,50,Female,2,No,Experienced multiple issues with payment processing.
+16,33,Male,3,Yes,Good but there's room for improvement. 
+17,47,Female,4,Yes,Delivery was on time and products were as described.
+18,27,Male,2,No,Difficult to find what I was looking for.
+19,36,Female,5,Yes,Outstanding customer experience!
+20,32,Male,4,Yes,Very responsive customer support.
+21,52,Female,3,No,Products are okay but not worth the price.
+22,24,Male,5,Yes,Would definitely shop here again.
+23,38,Female,4,Yes,A pleasant surprise in product quality.
+24,30,Male,2,No,Not satisfied with the delivery time.
+25,46,Female,3,Yes,Website is easy to navigate but needs more product filters.
+26,43,Male,5,Yes,Fast delivery and excellent product range.
+27,25,Female,4,Yes,Products are great but I wish there were more sales.
+28,34,Male,3,No,Product descriptions could be more detailed.
+29,40,Female,2,Yes,Service was good but I received the wrong item.
+30,21,Male,4,No,Good prices but average product quality.
+31,49,Female,5,Yes,Everything from start to finish was perfect.
+32,28,Male,3,Yes,Decent experience but I'd had better.
+33,55,Female,2,No,The return process was complicated and frustrating.
+34,29,Male,4,Yes,Impressed with the variety of options available.
+35,53,Female,3,No,Shipping costs are too high.
+36,30,Male,5,Yes,Superb quality and quick shipping.
+37,44,Female,4,No,The website crashed multiple times during my order.
+38,26,Male,2,Yes,The customer service was helpful but the product was late.
+39,51,Female,3,Yes,Good shopping experience but the product did not last long.
+40,27,Male,4,Yes,Loyalty rewards program is a great benefit.
+41,42,Female,5,Yes,Recommendations were spot on.
+42,31,Male,3,No,Found similar products cheaper elsewhere.
+43,37,Female,2,Yes,Not all products were in stock.
+44,24,Male,5,Yes,User experience on the mobile site was great.
+45,35,Female,4,No,The packaging was excessive and not eco-friendly.
+46,33,Male,3,Yes,Appreciated the detailed product reviews.
+47,49,Female,2,No,Delivery was delayed without notice.
+48,20,Male,4,Yes,Great loyalty program and customer incentives.
+49,56,Female,3,Yes,Products are good but require faster shipping options.
+50,31,Male,5,Yes,Comprehensive product range and easy navigation.

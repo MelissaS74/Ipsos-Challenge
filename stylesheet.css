@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f0f0;
+    color: #3A4BAC;
+}
+
+header {
+    background: #3A4BAC;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.dashboard {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.personalized-summaries {
+    grid-column: 1 / span 1;
+    grid-row: 1 / span 1;
+}
+
+.ai-avatar {
+    grid-column: 2 / span 1;
+    grid-row: 1 / span 1;
+}
+
+.chatbot-interface {
+    grid-column: 3 / span 1;
+    grid-row: 1 / span 1;
+}
+
+.actionable-recommendations {
+    grid-column: 1 / span 2;
+    grid-row: 2 / span 1;
+}
+
+.simulation-tools {
+    grid-column: 3 / span 1;
+    grid-row: 2 / span 1;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    .dashboard {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
+
+    .ai-avatar {
+        grid-row: 2 / span 1;
+    }
+
+    .chatbot-interface {
+        grid-column: 1 / span 2;
+        grid-row: 3 / span 1;
+    }
+
+    .actionable-recommendations {
+        grid-column: 1 / span 1;
+    }
+
+    .simulation-tools {
+        grid-column: 2 / span 1;
+    }
+}
